@@ -1,0 +1,154 @@
+[
+  {
+    "sprint_id": "SP-CORE-S1",
+    "sprint_name": "Core Platform - Sprint 1",
+    "risk_assessment": "Medium",
+    "delivery_confidence": "Medium",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S1",
+    "sprint_name": "Checkout Experience - Sprint 1",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CORE-S2",
+    "sprint_name": "Core Platform - Sprint 2",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S2",
+    "sprint_name": "Checkout Experience - Sprint 2",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CORE-S3",
+    "sprint_name": "Core Platform - Sprint 3",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S3",
+    "sprint_name": "Checkout Experience - Sprint 3",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CORE-S4",
+    "sprint_name": "Core Platform - Sprint 4",
+    "risk_assessment": "High",
+    "delivery_confidence": "Low",
+    "ai_root_cause_analysis": [
+      "High scope volatility (29.17% scope injected mid-sprint) eroded planned delivery buffers.",
+      "Code review friction ratio is high (0.49), indicating severe pull request bottlenecks."
+    ],
+    "actionable_descope_proposals": [
+      "Institute strict sprint scope freeze at Day 2. Require a 1-in-1-out trade-off policy.",
+      "Enforce a 24-hr PR review SLA or cap WIP (Work In Progress) per engineer."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S4",
+    "sprint_name": "Checkout Experience - Sprint 4",
+    "risk_assessment": "High",
+    "delivery_confidence": "Low",
+    "ai_root_cause_analysis": [
+      "High scope volatility (31.11% scope injected mid-sprint) eroded planned delivery buffers.",
+      "Code review friction ratio is high (0.47), indicating severe pull request bottlenecks."
+    ],
+    "actionable_descope_proposals": [
+      "Institute strict sprint scope freeze at Day 2. Require a 1-in-1-out trade-off policy.",
+      "Enforce a 24-hr PR review SLA or cap WIP (Work In Progress) per engineer."
+    ]
+  },
+  {
+    "sprint_id": "SP-CORE-S5",
+    "sprint_name": "Core Platform - Sprint 5",
+    "risk_assessment": "High",
+    "delivery_confidence": "Low",
+    "ai_root_cause_analysis": [
+      "High scope volatility (35.0% scope injected mid-sprint) eroded planned delivery buffers.",
+      "Code review friction ratio is high (0.45), indicating severe pull request bottlenecks."
+    ],
+    "actionable_descope_proposals": [
+      "Institute strict sprint scope freeze at Day 2. Require a 1-in-1-out trade-off policy.",
+      "Enforce a 24-hr PR review SLA or cap WIP (Work In Progress) per engineer."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S5",
+    "sprint_name": "Checkout Experience - Sprint 5",
+    "risk_assessment": "High",
+    "delivery_confidence": "Low",
+    "ai_root_cause_analysis": [
+      "High scope volatility (32.91% scope injected mid-sprint) eroded planned delivery buffers.",
+      "Code review friction ratio is high (0.46), indicating severe pull request bottlenecks."
+    ],
+    "actionable_descope_proposals": [
+      "Institute strict sprint scope freeze at Day 2. Require a 1-in-1-out trade-off policy.",
+      "Enforce a 24-hr PR review SLA or cap WIP (Work In Progress) per engineer."
+    ]
+  },
+  {
+    "sprint_id": "SP-CORE-S6",
+    "sprint_name": "Core Platform - Sprint 6",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  },
+  {
+    "sprint_id": "SP-CHEC-S6",
+    "sprint_name": "Checkout Experience - Sprint 6",
+    "risk_assessment": "Low",
+    "delivery_confidence": "High",
+    "ai_root_cause_analysis": [
+      "Sprint execution on track with low scope variance and stable cycle times."
+    ],
+    "actionable_descope_proposals": [
+      "Maintain existing velocity baseline and WIP limits."
+    ]
+  }
+]

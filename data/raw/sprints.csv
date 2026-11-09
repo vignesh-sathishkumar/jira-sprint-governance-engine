@@ -1,0 +1,13 @@
+sprint_id,sprint_name,squad,start_date,end_date,committed_points,added_points,total_scope_points
+SP-CORE-S1,Core Platform - Sprint 1,Core Platform,2026-01-05,2026-01-18,66,5,71
+SP-CHEC-S1,Checkout Experience - Sprint 1,Checkout Experience,2026-01-05,2026-01-18,91,7,98
+SP-CORE-S2,Core Platform - Sprint 2,Core Platform,2026-01-19,2026-02-01,75,6,81
+SP-CHEC-S2,Checkout Experience - Sprint 2,Checkout Experience,2026-01-19,2026-02-01,86,6,92
+SP-CORE-S3,Core Platform - Sprint 3,Core Platform,2026-02-02,2026-02-15,84,6,90
+SP-CHEC-S3,Checkout Experience - Sprint 3,Checkout Experience,2026-02-02,2026-02-15,68,5,73
+SP-CORE-S4,Core Platform - Sprint 4,Core Platform,2026-02-16,2026-03-01,72,21,93
+SP-CHEC-S4,Checkout Experience - Sprint 4,Checkout Experience,2026-02-16,2026-03-01,90,27,117
+SP-CORE-S5,Core Platform - Sprint 5,Core Platform,2026-03-02,2026-03-15,80,24,104
+SP-CHEC-S5,Checkout Experience - Sprint 5,Checkout Experience,2026-03-02,2026-03-15,79,23,102
+SP-CORE-S6,Core Platform - Sprint 6,Core Platform,2026-03-16,2026-03-29,85,6,91
+SP-CHEC-S6,Checkout Experience - Sprint 6,Checkout Experience,2026-03-16,2026-03-29,88,7,95
